@@ -6,7 +6,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Azuay",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-A"
             },
             "geometry": {
@@ -19,7 +19,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Bolívar",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-B"
             },
             "geometry": {
@@ -32,7 +32,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Carchi",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-C"
             },
             "geometry": {
@@ -45,7 +45,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Cañar",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-F"
             },
             "geometry": {
@@ -58,7 +58,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Chimborazo",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-H"
             },
             "geometry": {
@@ -71,7 +71,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Cotopaxi",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-X"
             },
             "geometry": {
@@ -84,7 +84,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "El Oro",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-O"
             },
             "geometry": {
@@ -97,7 +97,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Esmeraldas",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-E"
             },
             "geometry": {
@@ -110,7 +110,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Galápagos",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-W"
             },
             "geometry": {
@@ -123,7 +123,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Guayas",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-G"
             },
             "geometry": {
@@ -136,7 +136,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Imbabura",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-I"
             },
             "geometry": {
@@ -149,7 +149,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Loja",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-L"
             },
             "geometry": {
@@ -162,7 +162,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Los Ríos",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-R"
             },
             "geometry": {
@@ -175,7 +175,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Manabí",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-M"
             },
             "geometry": {
@@ -188,7 +188,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Morona Santiago",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-S"
             },
             "geometry": {
@@ -201,7 +201,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Napo",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-N"
             },
             "geometry": {
@@ -214,7 +214,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Orellana",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-D"
             },
             "geometry": {
@@ -227,7 +227,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Pastaza",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-Y"
             },
             "geometry": {
@@ -240,7 +240,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Pichincha",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-P"
             },
             "geometry": {
@@ -253,7 +253,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Santa Elena",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-SE"
             },
             "geometry": {
@@ -266,7 +266,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Santo Domingo",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-SD"
             },
             "geometry": {
@@ -279,7 +279,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Sucumbíos",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-U"
             },
             "geometry": {
@@ -292,7 +292,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Tungurahua",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-T"
             },
             "geometry": {
@@ -305,7 +305,7 @@
             "properties": {
                 "country": "Ecuador",
                 "province": "Zamora Chinchipe",
-                "iso_1": "ECU",
+                "iso_1": "EC",
                 "iso_2": "EC-Z"
             },
             "geometry": {
